@@ -1,0 +1,20 @@
+{
+  "name": "javascripted",
+  "description": "Playground for building and solving javascript code",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watch"
+  },
+  "author": "https://github.com/aureat",
+  "license": "MIT",
+  "devDependencies": {
+    "@jest/globals": "^29.7.0",
+    "@tsconfig/node18": "^18.2.4",
+    "@types/jest": "^29.5.12",
+    "jest": "^29.7.0",
+    "prettier": "3.3.3",
+    "ts-jest": "^29.2.5",
+    "typescript": "^5.5.4"
+  }
+}
